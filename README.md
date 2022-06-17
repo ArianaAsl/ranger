@@ -3,18 +3,24 @@
 ![My Image](ranger2.png)
 
   <ul>
-    <li>My Ranger setup </li>
-<li>File integration configurations</li>
-<li>Borders</li>
-<li>Icons</li>
-<li>And a few more things</li>
+    <li>تنظیمات رنجر من </li>
+<li>ارتباط فایل‌ها با برنامه‌ها </li>
+<li>کادر زیبا</li>
+<li>آیکون</li>
+<li>و چند چیز دیگر</li>
   <hr>
-<h3> Instructions </h3>
-<p> Place all the files and the plugin folder in ~/.config/ranger <br>
-  copy the contents of the fonts folder to your fonts directory usually at: /usr/share/fonts or ~/.local/share/fonts <br>
-  Use the provided nerd fonts in your terminal of choice if you want icons. You can also use any other nerd font I just happen to like hack <br>
-  for image previews in terminal you must have 'ueberzug' or 'w3m' installed. You may have to manually set scope.sh as an executable!<br>
-  To do that: chmod +x scope.sh <br>
-  I've used ueberzug in my config so that one is enough. <br>
-  This is not a super riced bloated crap! Its a minimal sane setup that happens to not look so bad. Enjoy <br>
-  </p>
+<h3> روش استفاده </h3>
+<p>  تمام فایل‌ها و پوشه پلاگین را در مسیز زیر قرار دهید<br>
+   ~/.config/ranger
+  <br>
+  
+محتویات پوشه فونت ها را در فهرست فونت های خود کپی کنید معمولاً در:<br>
+  /usr/share/fonts <br>
+  یا <br>
+  ~/.local/share/fonts <br>
+   اگر آیکون می خواهید از فونت های nerd ارائه شده؛ در ترمینال انتخابی خود استفاده کنید. شما همچنین می توانید از هر فونت دیگری که آیکون و گلیف را پشتیبانی می‌کند استفاده کنید.من هک را ترجیح می‌دهم.
+   برای پیش نمایش تصویر در ترمینال باید 'ueberzug' یا 'w3m' را نصب کرده باشید. ممکن است مجبور شوید scope.sh را به صورت دستی به عنوان یک فایل اجرایی تنظیم کنید!
+   برای انجام این کار: chmod +x scope.sh
+   من از ueberzug  برای نمایش تصاویر در ترمینال در پیکربندی خود استفاده کرده ام.
+   این یک تنظیم مینیمال و عاقلانه است. لذت ببرید. <br>
+   </p>
